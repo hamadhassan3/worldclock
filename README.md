@@ -1,11 +1,10 @@
 # World Clock
 
-![tt3](https://user-images.githubusercontent.com/60880656/121247415-ab1a5000-c8bb-11eb-9339-eede581ea90e.JPG)
-![tt1](https://user-images.githubusercontent.com/60880656/121247418-ac4b7d00-c8bb-11eb-9a8c-780473a3ef3f.JPG)
-![tt2](https://user-images.githubusercontent.com/60880656/121247421-ac4b7d00-c8bb-11eb-943c-5ef2d5d6c1a0.JPG)
-![tt4](https://user-images.githubusercontent.com/60880656/121248030-5cb98100-c8bc-11eb-831c-5761b5097777.JPG)
+![Capture](https://user-images.githubusercontent.com/60880656/123676071-e8d81c00-d85c-11eb-8751-efb3af9a9683.JPG)
+![Capture2](https://user-images.githubusercontent.com/60880656/123676075-ea094900-d85c-11eb-92b0-40412ff93ddb.JPG)
+![sadfsd](https://user-images.githubusercontent.com/60880656/123676076-eaa1df80-d85c-11eb-9387-9b5f7c69e2a9.JPG)
 
-Salient Features:
+## Salient Features:
 
 1. An android app that displays current time of different cities
 2. The user can select cities for which time information is needed
@@ -13,13 +12,14 @@ Salient Features:
 4. Data is persisted in sqlite database
 5. Search feature for the cities
 
-Compilation and Installation:
+## Compilation and Installation:
 
 1. This project is built using Java programming language in Android Studio
 2. Import the project in Android Studio
 3. Click run
 
-Dependencies:
+## Dependencies:
 
 1. JDK 8 or higher must be installed
 2. Android Studio must be installed
+
